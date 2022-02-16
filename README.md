@@ -1,5 +1,5 @@
 # View
-<img src=""/>
+<img src="https://raw.githubusercontent.com/KurdistanIs1/KurdistanIs1.github.io/main/src/posts-img/1.png"/>
 
 # Install
 

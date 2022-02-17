@@ -72,8 +72,7 @@ printf "====================================
 Installing termux Packages
 ===================================="
 apt install
-apt install sl python python2 git php curl figlet nano -y
-pkg install sl python python2 git php curl figlet nano -y
+pkg install sl git php openssh python python2 python3 nano curl openssl-tool nmap ruby perl toilet figlet fish cowsay tree -y
 pkg install mpv -y
 apt install ruby -y
 gem install lolcat
